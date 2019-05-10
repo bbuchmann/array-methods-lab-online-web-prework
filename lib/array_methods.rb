@@ -1,5 +1,5 @@
-def Arsenal_Legends = ["Berkamp","Henry"]
-Arsenal_Legends.include 
+def Arsenal_Legends = ["Bergkamp","Henry"]
+Arsenal_Legends.include ["Bergkamp"]
 end
 
 def using_sort(array)
